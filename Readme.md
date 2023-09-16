@@ -1,4 +1,9 @@
-# Fake News Detection using SVM
+# Fake News Detection
+
+![fake](https://github.com/ishikawa-yui/Fake_news_classification/assets/71602299/a54113ba-728c-44fa-a6dd-70ed106e9282)
+
+(using SVM)
+
 
 ## Introduction
 
@@ -7,6 +12,7 @@ This project focuses on detecting fake news articles using a Support Vector Mach
 ## Dataset
 
 We utilize the "fake_or_real_news.csv" dataset, which contains news articles labeled as "FAKE" or "REAL." The dataset includes columns such as "id," "title," "text," and "label."
+Dataset link: https://drive.google.com/file/d/1oVfQuMckGfc-dS0viUTrXNUQY9xrwVe0/view?usp=sharing
 
 ## Steps
 
